@@ -24,6 +24,7 @@ class BlankView < NSView
     def mouseDown(event)
         if @isFullScreen
             self.exitFullScreenModeWithOptions(nil)
+            self.window.makeFirstResponder(self)
             @isFullScreen = false
         else
             self.enterFullScreenMode(NSScreen.mainScreen, withOptions:nil)

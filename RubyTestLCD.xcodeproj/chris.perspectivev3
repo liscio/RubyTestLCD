@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ActivePerspectiveName</key>
-	<string>Debug</string>
+	<string>Project</string>
 	<key>AllowedModules</key>
 	<array>
 		<dict>
@@ -290,6 +290,8 @@
 							<string>MainColumn</string>
 							<real>185</real>
 						</array>
+						<key>RubberWindowFrame</key>
+						<string>1424 1011 810 487 0 0 2560 1578 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -327,6 +329,8 @@
 							<dict>
 								<key>Frame</key>
 								<string>{{0, 0}, {603, 0}}</string>
+								<key>RubberWindowFrame</key>
+								<string>1424 1011 810 487 0 0 2560 1578 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -339,6 +343,8 @@
 							<key>Tabs</key>
 							<array>
 								<dict>
+									<key>BecomeActive</key>
+									<true/>
 									<key>ContentConfiguration</key>
 									<dict>
 										<key>PBXProjectModuleGUID</key>
@@ -350,6 +356,8 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {603, 414}}</string>
+										<key>RubberWindowFrame</key>
+										<string>1424 1011 810 487 0 0 2560 1578 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -403,7 +411,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 31}, {603, 297}}</string>
+										<string>{{10, 27}, {603, 414}}</string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -431,11 +439,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>83FF384712D773C000A81073</string>
+				<string>83FF38E612D7C75400A81073</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>83FF384812D773C000A81073</string>
+				<string>83FF38E712D7C75400A81073</string>
 				<string>83E183B712D76E9000FD2F97</string>
-				<string>83FF384912D773C000A81073</string>
+				<string>83FF38E812D7C75400A81073</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -479,8 +487,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXProjectModuleGUID</key>
@@ -492,8 +498,6 @@
 					<dict>
 						<key>Frame</key>
 						<string>{{0, 0}, {810, 132}}</string>
-						<key>RubberWindowFrame</key>
-						<string>1484 216 810 487 0 0 2560 1578 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugCLIModule</string>
@@ -568,11 +572,7 @@
 							</array>
 							<key>Frame</key>
 							<string>{{395, 0}, {415, 150}}</string>
-							<key>RubberWindowFrame</key>
-							<string>1484 216 810 487 0 0 2560 1578 </string>
 						</dict>
-						<key>RubberWindowFrame</key>
-						<string>1484 216 810 487 0 0 2560 1578 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugSessionModule</string>
@@ -636,11 +636,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>83FF385012D773C000A81073</string>
 		<string>/Users/chris/Working/Trampoline/RubyTestLCD/RubyTestLCD.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>1484 216 810 487 0 0 2560 1578 </string>
+	<string>1424 1011 810 487 0 0 2560 1578 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
