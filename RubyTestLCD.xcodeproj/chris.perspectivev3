@@ -232,6 +232,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -266,10 +268,15 @@
 						<key>PBXSmartGroupTreeModuleOutlineStateKey_v7</key>
 						<dict>
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
-							<array/>
+							<array>
+								<string>29B97314FDCFA39411CA2CEA</string>
+								<string>080E96DDFE201D6D7F000001</string>
+							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
+									<integer>5</integer>
+									<integer>2</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -291,7 +298,7 @@
 							<real>185</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>1424 1011 810 487 0 0 2560 1578 </string>
+						<string>686 867 810 487 0 0 2560 1578 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -330,7 +337,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {603, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>1424 1011 810 487 0 0 2560 1578 </string>
+								<string>686 867 810 487 0 0 2560 1578 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -343,8 +350,6 @@
 							<key>Tabs</key>
 							<array>
 								<dict>
-									<key>BecomeActive</key>
-									<true/>
 									<key>ContentConfiguration</key>
 									<dict>
 										<key>PBXProjectModuleGUID</key>
@@ -356,8 +361,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {603, 414}}</string>
-										<key>RubberWindowFrame</key>
-										<string>1424 1011 810 487 0 0 2560 1578 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -412,6 +415,8 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {603, 414}}</string>
+										<key>RubberWindowFrame</key>
+										<string>686 867 810 487 0 0 2560 1578 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -595,14 +600,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>83FF384A12D773C000A81073</string>
+				<string>83FF38F812D7D04A00A81073</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>83FF384B12D773C000A81073</string>
-				<string>83FF384C12D773C000A81073</string>
-				<string>83FF384D12D773C000A81073</string>
-				<string>83FF384E12D773C000A81073</string>
-				<string>83FF384F12D773C000A81073</string>
+				<string>83FF38F912D7D04A00A81073</string>
+				<string>83FF38FA12D7D04A00A81073</string>
+				<string>83FF38FB12D7D04A00A81073</string>
+				<string>83FF38FC12D7D04A00A81073</string>
+				<string>83E183B712D76E9000FD2F97</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
 			<string>2</string>
@@ -636,10 +641,15 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>83FF38FD12D7D04A00A81073</string>
+		<string>83FF38FE12D7D04A00A81073</string>
+		<string>83FF38FF12D7D04A00A81073</string>
+		<string>83FF390012D7D04A00A81073</string>
 		<string>/Users/chris/Working/Trampoline/RubyTestLCD/RubyTestLCD.xcodeproj</string>
+		<string>83FF390112D7D04A00A81073</string>
 	</array>
 	<key>WindowString</key>
-	<string>1424 1011 810 487 0 0 2560 1578 </string>
+	<string>686 867 810 487 0 0 2560 1578 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

@@ -110,9 +110,23 @@
 	};
 	83E183BF12D76EB500FD2F97 /* blank_view.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1371, 1296}}";
-			sepNavSelRange = "{873, 0}";
-			sepNavVisRect = "{{0, 0}, {1371, 1296}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1371, 1321}}";
+			sepNavSelRange = "{650, 0}";
+			sepNavVisRect = "{{0, 0}, {1371, 1321}}";
+		};
+	};
+	83FF38EC12D7C82800A81073 /* app_controller.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1371, 1298}}";
+			sepNavSelRange = "{159, 0}";
+			sepNavVisRect = "{{0, 0}, {1371, 1298}}";
+		};
+	};
+	83FF38EE12D7C88700A81073 /* window_controller.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1371, 1321}}";
+			sepNavSelRange = "{238, 0}";
+			sepNavVisRect = "{{0, 0}, {1371, 1321}}";
 		};
 	};
 	8D1107260486CEB800E47090 /* RubyTestLCD */ = {
